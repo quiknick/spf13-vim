@@ -1,0 +1,4 @@
+UnBundle 'scrooloose/nerdtree'
+UnBundle 'nathanaelkane/vim-indent-guides'
+
+Bundle 'vim-scripts/a.vim'
